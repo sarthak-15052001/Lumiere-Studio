@@ -1,0 +1,19 @@
+# Environment files
+.env
+frontend/.env
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Node
+frontend/node_modules/
+
+# React build output
+frontend/dist/
+
+# IDE/system files
+.vscode/
+.idea/
+.DS_Store
